@@ -15,7 +15,7 @@ body {
     background-color: lightblue;
     background-image: url();
     box-shadow: 0 0 10px rgba(1, 1, 1, 1.1);
-    padding: 40px;
+    padding: 20px;
     display: flex;
 }
 
